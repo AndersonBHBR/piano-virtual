@@ -1,5 +1,5 @@
 # Projeto do Simulador de Piano
-![image](https://github.com/AndersonBHBR/jogo-da-memoria/blob/main/PianoVirtual.png)
+![image](https://github.com/AndersonBHBR/piano-virtual/blob/main/PianoVirtual.png)
 [Clique aqui para acessar o site rodando!](https://andersonbhbr.github.io/piano-virtual/)
 
 Um simulador de piano totalmente funcional no navegador feito com HTML, CSS e o poder de manipulação da D.O.M. do Browser através de Javascript e como interagir com áudios.
